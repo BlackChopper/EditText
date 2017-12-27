@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EditText.iml" filepath="$PROJECT_DIR$/EditText.iml" />
+      <module fileurl="file://C:\Users\alile\Desktop\EditText\EditText.iml" filepath="C:\Users\alile\Desktop\EditText\EditText.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://C:\Users\alile\Desktop\EditText\example\example.iml" filepath="C:\Users\alile\Desktop\EditText\example\example.iml" />
       <module fileurl="file://$PROJECT_DIR$/libsedittext/libsedittext.iml" filepath="$PROJECT_DIR$/libsedittext/libsedittext.iml" />
+      <module fileurl="file://C:\Users\alile\Desktop\EditText\libsedittext\libsedittext.iml" filepath="C:\Users\alile\Desktop\EditText\libsedittext\libsedittext.iml" />
     </modules>
   </component>
 </project>
