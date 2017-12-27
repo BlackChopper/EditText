@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EditText">
+        <attr name="drawable_height" format="dimension" />
+        <attr name="drawable_width" format="dimension" />
+        <attr name="drawable_marginTop" format="dimension" />
+        <attr name="drawable_marginBottom" format="dimension" />
+        <attr name="drawable_marginLeft" format="dimension" />
+        <attr name="drawable_marginRight" format="dimension" />
+    </declare-styleable>
+</resources>
