@@ -9,12 +9,11 @@ import android.util.AttributeSet;
 import com.blackchopper.edittext.R;
 
 /**
- * Author：alilettter
- * Github: http://github.com/aliletter
- * Email: 4884280@qq.com
- * data: 2017/12/27
+ * author  : Black Chopper
+ * e-mail  : 4884280@qq.com
+ * github  : http://github.com/BlackChopper
+ * project : EditText
  */
-
 @SuppressLint("AppCompatCustomView")
 public class EditText extends android.widget.EditText {
     private int mDrawableWidth;
