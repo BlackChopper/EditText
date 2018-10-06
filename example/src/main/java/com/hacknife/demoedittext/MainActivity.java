@@ -1,8 +1,7 @@
-package com.blackchopper.demoedittext;
+package com.hacknife.demoedittext;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import com.blackchopper.demoedittext.R;
 
 
 public class MainActivity extends AppCompatActivity {

@@ -1,12 +1,10 @@
-package com.blackchopper.edittext;
+package com.hacknife.edittext;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
-
-import com.blackchopper.edittext.R;
 
 /**
  * author  : Black Chopper
