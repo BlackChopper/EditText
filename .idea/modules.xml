@@ -3,17 +3,20 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EditText.iml" filepath="$PROJECT_DIR$/EditText.iml" />
-      <module fileurl="file://C:\Users\alile\Desktop\EditText\EditText.iml" filepath="C:\Users\alile\Desktop\EditText\EditText.iml" />
-      <module fileurl="file://C:\Users\Black Chopper\Desktop\EditText\EditText.iml" filepath="C:\Users\Black Chopper\Desktop\EditText\EditText.iml" />
       <module fileurl="file://F:\EditText\EditText.iml" filepath="F:\EditText\EditText.iml" />
+      <module fileurl="file://C:\Users\alile\Desktop\EditText\EditText.iml" filepath="C:\Users\alile\Desktop\EditText\EditText.iml" />
+      <module fileurl="file://C:\Users\Hacknife\Desktop\EditText\EditText.iml" filepath="C:\Users\Hacknife\Desktop\EditText\EditText.iml" />
+      <module fileurl="file://C:\Users\Black Chopper\Desktop\EditText\EditText.iml" filepath="C:\Users\Black Chopper\Desktop\EditText\EditText.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
-      <module fileurl="file://C:\Users\alile\Desktop\EditText\example\example.iml" filepath="C:\Users\alile\Desktop\EditText\example\example.iml" />
+      <module fileurl="file://C:\Users\Hacknife\Desktop\EditText\example\example.iml" filepath="C:\Users\Hacknife\Desktop\EditText\example\example.iml" />
       <module fileurl="file://C:\Users\Black Chopper\Desktop\EditText\example\example.iml" filepath="C:\Users\Black Chopper\Desktop\EditText\example\example.iml" />
+      <module fileurl="file://C:\Users\alile\Desktop\EditText\example\example.iml" filepath="C:\Users\alile\Desktop\EditText\example\example.iml" />
       <module fileurl="file://F:\EditText\example\example.iml" filepath="F:\EditText\example\example.iml" />
       <module fileurl="file://$PROJECT_DIR$/libsedittext/libsedittext.iml" filepath="$PROJECT_DIR$/libsedittext/libsedittext.iml" />
-      <module fileurl="file://C:\Users\alile\Desktop\EditText\libsedittext\libsedittext.iml" filepath="C:\Users\alile\Desktop\EditText\libsedittext\libsedittext.iml" />
-      <module fileurl="file://F:\EditText\libsedittext\libsedittext.iml" filepath="F:\EditText\libsedittext\libsedittext.iml" />
+      <module fileurl="file://C:\Users\Hacknife\Desktop\EditText\libsedittext\libsedittext.iml" filepath="C:\Users\Hacknife\Desktop\EditText\libsedittext\libsedittext.iml" />
       <module fileurl="file://C:\Users\Black Chopper\Desktop\EditText\libsedittext\libsedittext.iml" filepath="C:\Users\Black Chopper\Desktop\EditText\libsedittext\libsedittext.iml" />
+      <module fileurl="file://F:\EditText\libsedittext\libsedittext.iml" filepath="F:\EditText\libsedittext\libsedittext.iml" />
+      <module fileurl="file://C:\Users\alile\Desktop\EditText\libsedittext\libsedittext.iml" filepath="C:\Users\alile\Desktop\EditText\libsedittext\libsedittext.iml" />
     </modules>
   </component>
 </project>
